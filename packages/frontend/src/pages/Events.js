@@ -29,7 +29,7 @@ const EventsPage = () => {
 			<h1>Events Page</h1>
 			<ul>
 				{EVENTS.map((event) => (
-					<li>
+					<li key={event.id}>
 						<Link to={`/events/${event.id}`}>{event.title}</Link>
 					</li>
 				))}
