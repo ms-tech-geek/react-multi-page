@@ -1,11 +1,1 @@
-{
-  "events": [
-    {
-      "id": "e1",
-      "title": "A dummy event",
-      "date": "2023-02-22",
-      "image": "https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg",
-      "description": "Join this amazing event and connect with fellow developers."
-    }
-  ]
-}
+{"events":[{"title":"Christmas","image":"https://images.indianexpress.com/2024/02/Christmas-2024-Date-Christmas-2024-will-be-celebrated-on-25th-December-that-is-Wednesday.-Source-Freepik.jpg","date":"2024-12-25","description":"Santa is here...","id":"2d7ef36f-ce41-4a7d-a03d-0b0686e00e80"},{"title":"Diwali","image":"https://img.freepik.com/free-vector/gradient-background-diwali-festival-celebration_52683-142488.jpg","date":"2024-11-01","description":"Happy Diwali 2024","id":"cfa2303c-a6c7-4822-a182-6eb25bb24dc4"}]}
